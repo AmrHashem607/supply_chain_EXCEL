@@ -1,11 +1,11 @@
-# 📦 Supply Chain Dashboard | Excel
+#  Supply Chain Dashboard | Excel
 
-## 📌 Project Overview
+##  Project Overview
 This project is an **interactive Supply Chain Dashboard built in Microsoft Excel** to analyze key supply chain performance metrics such as order fulfillment, delivery performance, revenue, and customer satisfaction. It turns raw operational data into meaningful visual insights that support strategic supply chain decisions.
 
 ---
 
-## 🎯 Business Problem & Objective
+##  Business Problem & Objective
 ### Business Problem
 Supply chain and logistics teams often lack a unified view of how orders, deliveries, and inventory perform across regions and customer segments. Without a consolidated dashboard, tracking KPIs like on‑time delivery or units shipped can be inefficient and error‑prone.
 
@@ -16,7 +16,7 @@ Supply chain and logistics teams often lack a unified view of how orders, delive
 
 ---
 
-## 🧠 Tools & Techniques Used
+##  Tools & Techniques Used
 - **Microsoft Excel**  
 - Pivot Tables & Charts  
 - Slicers for interactive filtering  
@@ -25,7 +25,7 @@ Supply chain and logistics teams often lack a unified view of how orders, delive
 
 ---
 
-## 📂 Dataset & Key Metrics
+##  Dataset & Key Metrics
 The dashboard uses the dataset file **supply_chain_data (Assignment).xlsx** which includes information like:
 
 - Order ID  
@@ -41,8 +41,8 @@ These fields are used to calculate important KPIs such as delivery performance a
 
 ---
 
-## 📈 Key KPIs & Insights
-### 📊 Main KPIs
+##  Key KPIs & Insights
+###  Main KPIs
 - **Total Orders** – Count of orders in dataset  
 - **Total Revenue** – Sum of sales across all customers  
 - **On‑Time Delivery %** – Percentage of timely deliveries  

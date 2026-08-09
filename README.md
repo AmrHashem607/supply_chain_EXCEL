@@ -48,7 +48,7 @@ These fields are used to calculate important KPIs such as delivery performance a
 - **On‑Time Delivery %** – Percentage of timely deliveries  
 - **Units Ordered** – Total quantity over time
 
-### 💡 Example Insights
+###  Example Insights
 - Regional performance differences (e.g., which region fulfilled fastest)  
 - Trends in revenue and units shipped over time  
 - Key customers driving most of the revenue  
